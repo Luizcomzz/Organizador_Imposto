@@ -2,7 +2,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-28a745?style=for-the-badge)
 
-# Organizador imposto 💵💰
+# Organizador de imposto 💵💰
 Este projeto foi desenvolvido durante um curso da DIO com o objetivo de explorar os recursos do Microsoft Excel na construção de uma planilha automatizada para organizar informações financeiras e pessoais utilizadas na preparação da declaração do Imposto de Renda.
 
 A solução busca centralizar informações relevantes, facilitando a consulta e a organização dos dados ao longo do processo.
