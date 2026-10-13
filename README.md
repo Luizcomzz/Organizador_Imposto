@@ -24,10 +24,10 @@ Nesse contexto, uma planilha estruturada pode auxiliar contribuintes e profissio
 
 Os resultados desta análise permitem à equipe de crédito:
 
-- **Centralizar informações** Reunir dados para facilitar o acesso e a consulta.
-- **Agilização do processo** Reduzir o tempo de organização das informações.
-- **Apoio à rotina contábil** facilitar o acompanhamento dos dados fornecidos pelos clientes.
-- **Redução de falhas operacionais** Minimizar esquecimentos durante a preparação dos dados.
+- **Centralizar informações:** Reunir dados para facilitar o acesso e a consulta.
+- **Agilização do processo:** Reduzir o tempo de organização das informações.
+- **Apoio à rotina contábil:** facilitar o acompanhamento dos dados fornecidos pelos clientes.
+- **Redução de falhas operacionais:** Minimizar esquecimentos durante a preparação dos dados.
 
 ---
 
@@ -64,4 +64,4 @@ Os resultados desta análise permitem à equipe de crédito:
 
 ## 👤 Autor
 
-Desenvolvido por **Luiz** · [LinkedIn](https://www.linkedin.com/in/luiz-honorio-silva/) · [GitHub](https://github.com/Luizcomzz/)
+Desenvolvido por **Luizcomzz** · [LinkedIn](https://www.linkedin.com/in/luiz-honorio-silva/) · [GitHub](https://github.com/Luizcomzz/)
